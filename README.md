@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/Chat_Application.git
 cd Chat_Application
 ```
 
-## Firebase Configuration
+### Firebase Configuration
 ```js
 const firebaseConfig = {
   apiKey: "your_api_key",
